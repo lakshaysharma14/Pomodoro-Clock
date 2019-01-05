@@ -1,0 +1,23 @@
+.SetTimer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .SetTimer-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Timer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Controls {
+    display: flex;
+    justify-content: center;
+  }
+  
